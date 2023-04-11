@@ -1,5 +1,7 @@
 # Campesa - CampTix M-Pesa Gateway
 
+NOTE: Under Development
+
 Campesa is a WordPress plugin that adds M-Pesa as a payment gateway for the CampTix plugin. With this plugin, you can accept M-Pesa payments for your WordPress or WordCamp event.
 
 ## Features
